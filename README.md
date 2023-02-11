@@ -1,6 +1,12 @@
 ### Hello, World! ✨
 
-I'm a brazilian student who likes to work with Back-End ❤
+<i>I'm a brazilian student who likes to solve problems</i>
+
+### Interests
+- 📍 Logic Programming
+- 📍 Game development
+- 📍 Back-end
+- 📍 AI and machine learning
 
 <h3>Code editors</h3>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
