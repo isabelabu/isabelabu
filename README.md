@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, World! ✨
+
+I'm a brazilian student who likes to work with OOP 
+- Currently learning Python
 
 <!--
 **isabelabu/isabelabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
