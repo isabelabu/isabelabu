@@ -1,6 +1,6 @@
 ### Hello, World! ✨
 
-I'm a brazilian student who likes to work with Back-End 
+I'm a brazilian student who likes to work with Back-End ❤
 
 <h3>Code editors</h3>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
