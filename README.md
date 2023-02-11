@@ -2,6 +2,7 @@
 
 I'm a brazilian student who likes to work with OOP 
 - Currently learning Python
+- Basic experience in HTML, CSS and MySQL
 
 <!--
 **isabelabu/isabelabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
