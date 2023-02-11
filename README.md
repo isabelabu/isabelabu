@@ -1,6 +1,6 @@
 ### Hello, World! ✨
 
-I'm a brazilian student who likes to work with OOP 
+I'm a brazilian student who likes to work with Back-End 
 - Currently learning Python
 - Basic experience in HTML, CSS and MySQL
 
