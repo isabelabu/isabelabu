@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/564x/33/82/20/338220e6b50e2c8a162b98990e22d592.jpg">
+
 ### Hello, World! ✨
 
 <i>I'm a brazilian student who likes to solve problems</i>
