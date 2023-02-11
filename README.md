@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/564x/33/82/20/338220e6b50e2c8a162b98990e22d592.jpg">
-
 ### Hello, World! ✨
 
 <i>I'm a brazilian student who likes to solve problems</i>
@@ -26,7 +24,7 @@
 <img height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </p>
           
-
+<img src="https://i.pinimg.com/564x/33/82/20/338220e6b50e2c8a162b98990e22d592.jpg">
 <!--
 **isabelabu/isabelabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
