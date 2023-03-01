@@ -8,9 +8,6 @@
 - 📍 Back-end
 - 📍 AI and machine learning
 
-<h3>Code editors</h3>
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
 <h3>Currently Learning</h3>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
