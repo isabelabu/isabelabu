@@ -8,9 +8,6 @@
 - 📍 Back-end
 - 📍 AI and machine learning
 
-<h3>Currently Learning</h3>
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
 <h3>Basic Experience</h3>
 <p>
 <img height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
