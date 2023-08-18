@@ -1,6 +1,6 @@
 ### Hello, World! ✨
 
-<i>I'm a brazilian student who likes to solve problems</i>
+<i>I'm Belabu, a brazilian student who likes to solve problems</i>
 
 ### Interests
 - 📍 Game development
