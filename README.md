@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white)
 
-## Code editors and Game Engines
+## Code Editors and Game Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-100000?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
