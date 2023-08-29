@@ -10,7 +10,9 @@
 ![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Databases
+![SQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Code Editors and Game Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
