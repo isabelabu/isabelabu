@@ -9,8 +9,7 @@ I'm a passionate and curious individual who is currently on a journey of explora
 - I'm still in the early stages of my programming journey, which means I'm continuously learning and experimenting with various technologies, languages, and paradigms.
 - I'm excited to explore different areas to find my true passion and specialization.
 
-🎓My [Certifications](https://www.linkedin.com/in/isabelabu/details/certifications/)
-
+🎓My [Certifications](https://www.linkedin.com/in/isabelabu/details/certifications/) -
 🎯My [Progress](https://github.com/isabelabu/my-progress)
 
 ### 🎲 Interests
