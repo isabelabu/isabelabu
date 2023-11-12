@@ -11,6 +11,8 @@ I'm a passionate and curious individual who is currently on a journey of explora
 
 🎓My [Certifications](https://www.linkedin.com/in/isabelabu/details/certifications/)
 
+🎯My [Progress](https://github.com/isabelabu/my-progress)
+
 ### 🎲 Interests
 - 📍 Game development
 - 📍 AI and machine learning
