@@ -13,10 +13,10 @@ I'm a passionate and curious individual who is currently on a journey of explora
 🎯My [Progress](https://github.com/isabelabu/my-progress)
 
 ### 🎲 Interests
-- 📍 Game development
+- 📍 Game development ⭐
 - 📍 AI and machine learning
 - 📍 Data Science
-- 📍 UI/UX
+- 📍 UI/UX ⭐
 ***
 
 ## ⚔ Skills
@@ -33,8 +33,7 @@ I'm a passionate and curious individual who is currently on a journey of explora
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-### Code Editors and Game Engines
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+### Code Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
