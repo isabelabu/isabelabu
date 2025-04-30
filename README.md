@@ -4,16 +4,13 @@
 
 ### 🍄 About Me
 
-- Front-end Developer
 - UI/UX designer
 
-🎓My [Certifications](https://www.linkedin.com/in/isabelabu/details/certifications/) -
-🎯My [Progress](https://github.com/isabelabu/my-progress)
+🎓My [Certifications](https://www.linkedin.com/in/isabelabu/details/certifications/) 
 
 ### 🎲 Interests
 - 📍 Game design and development
 - 📍 UI/UX
-- 📍 Front-end
 ***
 
 ## 🥇 Main Skills
